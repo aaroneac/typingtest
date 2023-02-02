@@ -29,7 +29,7 @@ setTimeout(() => {
     <canvas id="confetti-holder"></canvas>
     <div class="holder">
       <h1>{{ phrases[Math.floor(Math.random() * phrases.length)] }}</h1>
-      <img :src="'/Congrats' + randomNumber + '.gif'" alt="" />
+      <img :src="'/typingtest/TypingTest/dist/Congrats' + randomNumber + '.gif'" alt="" />
       <button @click="props.setScreen('type')">Try Again</button>
     </div>
   </div>
