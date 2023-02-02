@@ -18,7 +18,7 @@ const passages = [
   'Ben is a little boy. He is 5 years old. Ben likes to play with his truck and toy cars. The cars can go very fast. When Ben plays with his cars he makes a sound like this Vroom.',
   'Ben has a sister. Her name is Sally and she is 4 years old. Sally has a doll. The name of Sallys doll is Tammy. Sally likes to dress Tammy in pretty clothes.',
   'Sam has a yellow ball. It is a bouncy. bouncy ball. When Sam pats his ball to the ground it bounces right back up to his hand. If Sam pats the ball softly it only bounces up a little bit. If he pats it hard it bounces up high',
-  'Mike has a ball too. Mikes ball is small and blue. Mike likes to bounce his ball with both hands. If Mikes ball hits a little stone or stick it bounces away from him. Then he runs and gets it and starts bouncing again. ',
+  'Mike has a ball too. Mikes ball is small and blue. Mike likes to bounce his ball with both hands. If Mikes ball hits a little stone or stick it bounces away from him. Then he runs and gets it and starts bouncing again.',
   'One day in the forest a fox chased after a rabbit. The rabbit hid behind a tree and the fox kept running.',
   'Olly was always happy but Freda was always sad. One day Olly said to Freda. Why do you look so sad. Freda said Im sad because you have lots of arms and I dont. Oh said Olly. dont be sad just be happy with what you do have nice fins and a tail to help you swim well.',
   'Patch got a bone for Christmas. He found it in the morning in a Christmas stocking right outside his kennel. This is the first time Patch has got a bone for Christmas. Every other year hes got a bowl of doggy sweets.',
