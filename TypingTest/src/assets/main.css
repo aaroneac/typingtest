@@ -1,0 +1,16 @@
+@import './base.css';
+
+.body {
+  overflow: auto;
+  overflow-x: hidden;
+}
+
+button {
+  background-color: #B52701;
+  padding: 15px 25px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
