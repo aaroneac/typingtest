@@ -11,6 +11,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
-  publicPath: '/typingtest/',
-  base: '/typingtest/',
+  base: '/typingtest/TypingTest/dist/',
 });
