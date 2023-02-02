@@ -18,6 +18,10 @@ onMounted(() => {
 onUnmounted(() => {
   confetti.clear();
 });
+
+setTimeout(() => {
+  props.setScreen('type');
+}, 5000);
 </script>
 
 <template>
@@ -25,7 +29,7 @@ onUnmounted(() => {
     <canvas id="confetti-holder"></canvas>
     <div class="holder">
       <h1>{{ phrases[Math.floor(Math.random() * phrases.length)] }}</h1>
-      <img :src="'src/assets/images/Congrats' + randomNumber + '.gif'" alt="" />
+      <img :src="'/Congrats' + randomNumber + '.gif'" alt="" />
       <button @click="props.setScreen('type')">Try Again</button>
     </div>
   </div>
@@ -45,5 +49,6 @@ onUnmounted(() => {
 }
 img {
   margin: 30px;
+  min-width: 40vw;
 }
 </style>
