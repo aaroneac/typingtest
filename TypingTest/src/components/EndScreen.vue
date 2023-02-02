@@ -19,9 +19,9 @@ onUnmounted(() => {
   confetti.clear();
 });
 
-setTimeout(() => {
-  props.setScreen('type');
-}, 5000);
+// setTimeout(() => {
+//   props.setScreen('type');
+// }, 5000);
 </script>
 
 <template>
